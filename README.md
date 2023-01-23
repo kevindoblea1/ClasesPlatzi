@@ -1,26 +1,19 @@
 # Retos de la ciberseguridad
-
 ### Compliance
 Incremento el nivel de cumplimiento de normativas de seguridad
-
-## Data privacy
-
+#### Data privacy
+Privacidad de la información o protección de datos
 ### Avialability
-Optimizar la disponibilidad de los servicios
-
+Optimizar la disponibilidad de los servicios, deben ser accesibles en todo momento
 ### Evolucion
 Mejorar la imagen corporativa en ingreso a nuevos mercados
-
 ### Nuevas Tecnologías
 Tecnologías con amplio poder computacional que permitan descifrar o vulnerar algoritmos de cifrado.
 Nuevos dispositivos que no implementen cifrado de datos debido a su poder computacional.
-
 ### Zero Day Attacks:
 Ataques a hardware o software sobre un fallo no conocido, por lo tanto no existen parches de control.
-
 ### Proceso de Mejora Continua:
 Los riesgos siempre serán persistentes , por lo tanto se deberán crear y revisar controles constantemente.
-
 ### Mayor número de atacantes:
 * Script Kiddies: Personas con poco conocimiento pero motivadas por películas o series.
 *  Grupos criminales: Motivados para obtener un beneficio (Tarjetas de crédito, información confidencial de su empresa).
